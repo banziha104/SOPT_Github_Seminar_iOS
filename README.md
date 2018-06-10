@@ -1,6 +1,6 @@
 # SOPT_Github_Seminar_Android
 
-PDF 파일은 PDF 폴더에 있습니다🤪
+PDF 올렸습니다 ! 🤪
 
 깃공부하기 좋은 사이트
 
