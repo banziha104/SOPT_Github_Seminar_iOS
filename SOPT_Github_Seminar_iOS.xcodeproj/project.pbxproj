@@ -12,6 +12,7 @@
 		2FDBBA4D20CAA36400D5FF8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FDBBA4B20CAA36400D5FF8F /* Main.storyboard */; };
 		2FDBBA4F20CAA36500D5FF8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FDBBA4E20CAA36500D5FF8F /* Assets.xcassets */; };
 		2FDBBA5220CAA36500D5FF8F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FDBBA5020CAA36500D5FF8F /* LaunchScreen.storyboard */; };
+		844AB4B920CBB10F00F3DF51 /* gitgit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 844AB4B820CBB10F00F3DF51 /* gitgit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2FDBBA4E20CAA36500D5FF8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2FDBBA5120CAA36500D5FF8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2FDBBA5320CAA36500D5FF8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		844AB4B820CBB10F00F3DF51 /* gitgit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gitgit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				2FDBBA4720CAA36400D5FF8F /* AppDelegate.swift */,
 				2FDBBA4920CAA36400D5FF8F /* ViewController.swift */,
 				2FDBBA4B20CAA36400D5FF8F /* Main.storyboard */,
+				844AB4B820CBB10F00F3DF51 /* gitgit.swift */,
 				2FDBBA4E20CAA36500D5FF8F /* Assets.xcassets */,
 				2FDBBA5020CAA36500D5FF8F /* LaunchScreen.storyboard */,
 				2FDBBA5320CAA36500D5FF8F /* Info.plist */,
@@ -137,6 +140,7 @@
 			files = (
 				2FDBBA4A20CAA36400D5FF8F /* ViewController.swift in Sources */,
 				2FDBBA4820CAA36400D5FF8F /* AppDelegate.swift in Sources */,
+				844AB4B920CBB10F00F3DF51 /* gitgit.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
